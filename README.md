@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Yoav! 👋
 
-<!--
-**yosiforyoav/yosiforyoav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+🔎 - 22 years old electrical engineering student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧲 - Love programming, data science and robotics
+
+⏱️ - I am currently learning C++ and deep learning
+
+## 💻 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosiforyoav)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🧮 Statistics
+[![yoavaddlight's github stats](https://github-readme-stats.vercel.app/api?username=yosiforyoav&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/yosiforyoav/github-readme-stats)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoavyosifor/)
